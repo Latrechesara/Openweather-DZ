@@ -5,9 +5,8 @@ next_url: "02-environment.md"
 
 # Introduction: MeteoFlow-DZ & Real-Time Event Streaming Engineering
 
-<p align="center">
-  <img width="660" height="500" alt="MeteoFlow DZ Architecture" src="https://github.com/user-attachments/assets/YOUR_IMAGE_HASH" />
-</p>
+<img width="1238" height="848" alt="Gemini_Generated_Image_i1r7aqi1r7aqi1r7" src="https://github.com/user-attachments/assets/41129613-894b-4fc4-b871-83cd8963667d" />
+
 
 Welcome to the **MeteoFlow-DZ Project**! This hands-on, end-to-end real-time data engineering workshop is designed to take you from live external API telemetry streams to a production-ready, interactive geospatial dashboard.
 
